@@ -1,0 +1,975 @@
+newline: 
+word: the
+old_topic: 0
+nw: 1,1
+1,0
+0,3
+1,1
+1,0
+1,0
+1,0
+nd: 1,2
+2,2
+3,1
+nwsum: [ 6, 5 ]
+ndsum: [ 3, 4, 4 ]
+z: 0,0,1,1
+1,0,1,0
+0,0,1,0
+word_topic_weight: 1.01
+global_topic_weight: 6.07
+doc_topic_weight: 1.1
+doc_max_weight: 3.2
+word_topic_weight: 1.01
+global_topic_weight: 5.07
+doc_topic_weight: 2.1
+doc_max_weight: 3.2
+p: [ 0.05719728171334431, 0.13073224852071005 ]
+newline: 
+word: cat
+old_topic: 0
+nw: 1,2
+0,0
+0,3
+1,1
+1,0
+1,0
+1,0
+nd: 0,3
+2,2
+3,1
+nwsum: [ 5, 6 ]
+ndsum: [ 3, 4, 4 ]
+z: 1,0,1,1
+1,0,1,0
+0,0,1,0
+word_topic_weight: 0.01
+global_topic_weight: 5.07
+doc_topic_weight: 0.1
+doc_max_weight: 3.2
+word_topic_weight: 0.01
+global_topic_weight: 6.07
+doc_topic_weight: 3.1
+doc_max_weight: 3.2
+p: [ 0.0000616370808678501, 0.0015959637561779243 ]
+newline: 
+word: is
+old_topic: 1
+nw: 1,2
+0,1
+0,2
+1,1
+1,0
+1,0
+1,0
+nd: 0,3
+2,2
+3,1
+nwsum: [ 5, 6 ]
+ndsum: [ 3, 4, 4 ]
+z: 1,1,1,1
+1,0,1,0
+0,0,1,0
+word_topic_weight: 0.01
+global_topic_weight: 5.07
+doc_topic_weight: 0.1
+doc_max_weight: 3.2
+word_topic_weight: 2.01
+global_topic_weight: 6.07
+doc_topic_weight: 3.1
+doc_max_weight: 3.2
+p: [ 0.0000616370808678501, 0.3207887149917627 ]
+newline: 
+word: fierce
+old_topic: 1
+nw: 1,2
+0,1
+0,3
+1,0
+1,0
+1,0
+1,0
+nd: 0,3
+2,2
+3,1
+nwsum: [ 5, 6 ]
+ndsum: [ 3, 4, 4 ]
+z: 1,1,1,1
+1,0,1,0
+0,0,1,0
+word_topic_weight: 1.01
+global_topic_weight: 5.07
+doc_topic_weight: 0.1
+doc_max_weight: 3.2
+word_topic_weight: 0.01
+global_topic_weight: 6.07
+doc_topic_weight: 3.1
+doc_max_weight: 3.2
+p: [ 0.0062253451676528605, 0.0015959637561779243 ]
+newline: 
+word: the
+old_topic: 1
+nw: 1,1
+0,1
+0,3
+2,0
+1,0
+1,0
+1,0
+nd: 1,3
+2,1
+3,1
+nwsum: [ 6, 5 ]
+ndsum: [ 4, 3, 4 ]
+z: 1,1,1,0
+1,0,1,0
+0,0,1,0
+word_topic_weight: 1.01
+global_topic_weight: 6.07
+doc_topic_weight: 2.1
+doc_max_weight: 3.2
+word_topic_weight: 1.01
+global_topic_weight: 5.07
+doc_topic_weight: 1.1
+doc_max_weight: 3.2
+p: [ 0.10919481054365732, 0.06847879684418146 ]
+newline: 
+word: mouse
+old_topic: 0
+nw: 2,1
+0,1
+0,3
+2,0
+0,0
+1,0
+1,0
+nd: 1,3
+2,1
+3,1
+nwsum: [ 6, 5 ]
+ndsum: [ 4, 3, 4 ]
+z: 1,1,1,0
+0,0,1,0
+0,0,1,0
+word_topic_weight: 0.01
+global_topic_weight: 6.07
+doc_topic_weight: 2.1
+doc_max_weight: 3.2
+word_topic_weight: 0.01
+global_topic_weight: 5.07
+doc_topic_weight: 1.1
+doc_max_weight: 3.2
+p: [ 0.0010811367380560131, 0.0006780078895463512 ]
+newline: 
+word: is
+old_topic: 1
+nw: 2,1
+0,1
+0,2
+2,0
+1,0
+1,0
+1,0
+nd: 1,3
+3,0
+3,1
+nwsum: [ 7, 4 ]
+ndsum: [ 4, 3, 4 ]
+z: 1,1,1,0
+0,0,1,0
+0,0,1,0
+word_topic_weight: 0.01
+global_topic_weight: 7.07
+doc_topic_weight: 3.1
+doc_max_weight: 3.2
+word_topic_weight: 2.01
+global_topic_weight: 4.07
+doc_topic_weight: 0.1
+doc_max_weight: 3.2
+p: [ 0.0013702263083451203, 0.015433046683046682 ]
+newline: 
+word: meek
+old_topic: 0
+nw: 2,1
+0,1
+0,3
+2,0
+1,0
+0,0
+1,0
+nd: 1,3
+2,1
+3,1
+nwsum: [ 6, 5 ]
+ndsum: [ 4, 3, 4 ]
+z: 1,1,1,0
+0,0,1,0
+0,0,1,0
+word_topic_weight: 0.01
+global_topic_weight: 6.07
+doc_topic_weight: 2.1
+doc_max_weight: 3.2
+word_topic_weight: 0.01
+global_topic_weight: 5.07
+doc_topic_weight: 1.1
+doc_max_weight: 3.2
+p: [ 0.0010811367380560131, 0.0006780078895463512 ]
+newline: 
+word: the
+old_topic: 0
+nw: 1,1
+0,1
+0,3
+2,0
+1,0
+1,0
+1,0
+nd: 1,3
+3,1
+2,1
+nwsum: [ 6, 5 ]
+ndsum: [ 4, 4, 3 ]
+z: 1,1,1,0
+0,0,1,0
+0,0,1,0
+word_topic_weight: 1.01
+global_topic_weight: 6.07
+doc_topic_weight: 2.1
+doc_max_weight: 3.2
+word_topic_weight: 1.01
+global_topic_weight: 5.07
+doc_topic_weight: 1.1
+doc_max_weight: 3.2
+p: [ 0.10919481054365732, 0.06847879684418146 ]
+newline: 
+word: leopard
+old_topic: 0
+nw: 1,2
+0,1
+0,3
+2,0
+1,0
+1,0
+0,0
+nd: 1,3
+3,1
+1,2
+nwsum: [ 5, 6 ]
+ndsum: [ 4, 4, 3 ]
+z: 1,1,1,0
+0,0,1,0
+1,0,1,0
+word_topic_weight: 0.01
+global_topic_weight: 5.07
+doc_topic_weight: 1.1
+doc_max_weight: 3.2
+word_topic_weight: 0.01
+global_topic_weight: 6.07
+doc_topic_weight: 2.1
+doc_max_weight: 3.2
+p: [ 0.0006780078895463512, 0.0010811367380560131 ]
+newline: 
+word: is
+old_topic: 1
+nw: 1,2
+0,1
+0,2
+2,0
+1,0
+1,0
+1,0
+nd: 1,3
+3,1
+2,1
+nwsum: [ 6, 5 ]
+ndsum: [ 4, 4, 3 ]
+z: 1,1,1,0
+0,0,1,0
+1,0,1,0
+word_topic_weight: 0.01
+global_topic_weight: 6.07
+doc_topic_weight: 2.1
+doc_max_weight: 3.2
+word_topic_weight: 2.01
+global_topic_weight: 5.07
+doc_topic_weight: 1.1
+doc_max_weight: 3.2
+p: [ 0.0010811367380560131, 0.13627958579881655 ]
+newline: 
+word: fierce
+old_topic: 0
+nw: 1,2
+0,1
+0,3
+1,0
+1,0
+1,0
+1,0
+nd: 1,3
+3,1
+1,2
+nwsum: [ 5, 6 ]
+ndsum: [ 4, 4, 3 ]
+z: 1,1,1,0
+0,0,1,0
+1,0,1,0
+word_topic_weight: 1.01
+global_topic_weight: 5.07
+doc_topic_weight: 1.1
+doc_max_weight: 3.2
+word_topic_weight: 0.01
+global_topic_weight: 6.07
+doc_topic_weight: 2.1
+doc_max_weight: 3.2
+p: [ 0.06847879684418146, 0.0010811367380560131 ]
+newline: 
+word: the
+old_topic: 1
+nw: 1,1
+0,1
+0,3
+2,0
+1,0
+1,0
+1,0
+nd: 1,2
+3,1
+2,2
+nwsum: [ 6, 5 ]
+ndsum: [ 3, 4, 4 ]
+z: 1,1,1,0
+0,0,1,0
+1,0,1,0
+word_topic_weight: 1.01
+global_topic_weight: 6.07
+doc_topic_weight: 1.1
+doc_max_weight: 3.2
+word_topic_weight: 1.01
+global_topic_weight: 5.07
+doc_topic_weight: 2.1
+doc_max_weight: 3.2
+p: [ 0.05719728171334431, 0.13073224852071005 ]
+newline: 
+word: cat
+old_topic: 1
+nw: 1,2
+0,0
+0,3
+2,0
+1,0
+1,0
+1,0
+nd: 1,2
+3,1
+2,2
+nwsum: [ 6, 5 ]
+ndsum: [ 3, 4, 4 ]
+z: 1,1,1,0
+0,0,1,0
+1,0,1,0
+word_topic_weight: 0.01
+global_topic_weight: 6.07
+doc_topic_weight: 1.1
+doc_max_weight: 3.2
+word_topic_weight: 0.01
+global_topic_weight: 5.07
+doc_topic_weight: 2.1
+doc_max_weight: 3.2
+p: [ 0.0005663097199341021, 0.001294378698224852 ]
+newline: 
+word: is
+old_topic: 1
+nw: 1,2
+1,0
+0,2
+2,0
+1,0
+1,0
+1,0
+nd: 2,1
+3,1
+2,2
+nwsum: [ 7, 4 ]
+ndsum: [ 3, 4, 4 ]
+z: 1,0,1,0
+0,0,1,0
+1,0,1,0
+word_topic_weight: 0.01
+global_topic_weight: 7.07
+doc_topic_weight: 2.1
+doc_max_weight: 3.2
+word_topic_weight: 2.01
+global_topic_weight: 4.07
+doc_topic_weight: 1.1
+doc_max_weight: 3.2
+p: [ 0.0009282178217821782, 0.16976351351351351 ]
+newline: 
+word: fierce
+old_topic: 0
+nw: 1,2
+1,0
+0,3
+1,0
+1,0
+1,0
+1,0
+nd: 1,2
+3,1
+2,2
+nwsum: [ 6, 5 ]
+ndsum: [ 3, 4, 4 ]
+z: 1,0,1,0
+0,0,1,0
+1,0,1,0
+word_topic_weight: 1.01
+global_topic_weight: 6.07
+doc_topic_weight: 1.1
+doc_max_weight: 3.2
+word_topic_weight: 0.01
+global_topic_weight: 5.07
+doc_topic_weight: 2.1
+doc_max_weight: 3.2
+p: [ 0.05719728171334431, 0.001294378698224852 ]
+newline: 
+word: the
+old_topic: 0
+nw: 0,2
+1,0
+0,3
+2,0
+1,0
+1,0
+1,0
+nd: 2,2
+2,1
+2,2
+nwsum: [ 6, 5 ]
+ndsum: [ 4, 3, 4 ]
+z: 1,0,1,0
+0,0,1,0
+1,0,1,0
+word_topic_weight: 0.01
+global_topic_weight: 6.07
+doc_topic_weight: 2.1
+doc_max_weight: 3.2
+word_topic_weight: 2.01
+global_topic_weight: 5.07
+doc_topic_weight: 1.1
+doc_max_weight: 3.2
+p: [ 0.0010811367380560131, 0.13627958579881655 ]
+newline: 
+word: mouse
+old_topic: 0
+nw: 0,3
+1,0
+0,3
+2,0
+0,0
+1,0
+1,0
+nd: 2,2
+1,2
+2,2
+nwsum: [ 5, 6 ]
+ndsum: [ 4, 3, 4 ]
+z: 1,0,1,0
+1,0,1,0
+1,0,1,0
+word_topic_weight: 0.01
+global_topic_weight: 5.07
+doc_topic_weight: 1.1
+doc_max_weight: 3.2
+word_topic_weight: 0.01
+global_topic_weight: 6.07
+doc_topic_weight: 2.1
+doc_max_weight: 3.2
+p: [ 0.0006780078895463512, 0.0010811367380560131 ]
+newline: 
+word: is
+old_topic: 1
+nw: 0,3
+1,0
+0,2
+2,0
+0,1
+1,0
+1,0
+nd: 2,2
+1,2
+2,2
+nwsum: [ 5, 6 ]
+ndsum: [ 4, 3, 4 ]
+z: 1,0,1,0
+1,1,1,0
+1,0,1,0
+word_topic_weight: 0.01
+global_topic_weight: 5.07
+doc_topic_weight: 1.1
+doc_max_weight: 3.2
+word_topic_weight: 2.01
+global_topic_weight: 6.07
+doc_topic_weight: 2.1
+doc_max_weight: 3.2
+p: [ 0.0006780078895463512, 0.21730848434925862 ]
+newline: 
+word: meek
+old_topic: 0
+nw: 0,3
+1,0
+0,3
+2,0
+0,1
+0,0
+1,0
+nd: 2,2
+0,3
+2,2
+nwsum: [ 4, 7 ]
+ndsum: [ 4, 3, 4 ]
+z: 1,0,1,0
+1,1,1,0
+1,0,1,0
+word_topic_weight: 0.01
+global_topic_weight: 4.07
+doc_topic_weight: 0.1
+doc_max_weight: 3.2
+word_topic_weight: 0.01
+global_topic_weight: 7.07
+doc_topic_weight: 3.1
+doc_max_weight: 3.2
+p: [ 0.00007678132678132678, 0.0013702263083451203 ]
+newline: 
+word: the
+old_topic: 1
+nw: 0,2
+1,0
+0,3
+2,0
+0,1
+0,1
+1,0
+nd: 2,2
+0,4
+2,1
+nwsum: [ 4, 7 ]
+ndsum: [ 4, 4, 3 ]
+z: 1,0,1,0
+1,1,1,1
+1,0,1,0
+word_topic_weight: 0.01
+global_topic_weight: 4.07
+doc_topic_weight: 2.1
+doc_max_weight: 3.2
+word_topic_weight: 2.01
+global_topic_weight: 7.07
+doc_topic_weight: 1.1
+doc_max_weight: 3.2
+p: [ 0.0016124078624078625, 0.09772807637906646 ]
+newline: 
+word: leopard
+old_topic: 0
+nw: 0,3
+1,0
+0,3
+2,0
+0,1
+0,1
+0,0
+nd: 2,2
+0,4
+1,2
+nwsum: [ 3, 8 ]
+ndsum: [ 4, 4, 3 ]
+z: 1,0,1,0
+1,1,1,1
+1,0,1,0
+word_topic_weight: 0.01
+global_topic_weight: 3.07
+doc_topic_weight: 1.1
+doc_max_weight: 3.2
+word_topic_weight: 0.01
+global_topic_weight: 8.07
+doc_topic_weight: 2.1
+doc_max_weight: 3.2
+p: [ 0.0011197068403908795, 0.0008131970260223048 ]
+newline: 
+word: is
+old_topic: 1
+nw: 0,3
+1,0
+0,2
+2,0
+0,1
+0,1
+0,1
+nd: 2,2
+0,4
+1,2
+nwsum: [ 3, 8 ]
+ndsum: [ 4, 4, 3 ]
+z: 1,0,1,0
+1,1,1,1
+1,1,1,0
+word_topic_weight: 0.01
+global_topic_weight: 3.07
+doc_topic_weight: 1.1
+doc_max_weight: 3.2
+word_topic_weight: 2.01
+global_topic_weight: 8.07
+doc_topic_weight: 2.1
+doc_max_weight: 3.2
+p: [ 0.0011197068403908795, 0.16345260223048325 ]
+newline: 
+word: fierce
+old_topic: 0
+nw: 0,3
+1,0
+0,3
+1,0
+0,1
+0,1
+0,1
+nd: 2,2
+0,4
+0,3
+nwsum: [ 2, 9 ]
+ndsum: [ 4, 4, 3 ]
+z: 1,0,1,0
+1,1,1,1
+1,1,1,0
+word_topic_weight: 1.01
+global_topic_weight: 2.07
+doc_topic_weight: 0.1
+doc_max_weight: 3.2
+word_topic_weight: 0.01
+global_topic_weight: 9.07
+doc_topic_weight: 3.1
+doc_max_weight: 3.2
+p: [ 0.015247584541062805, 0.0010680815876515986 ]
+newline: 
+word: the
+old_topic: 1
+nw: 0,2
+1,0
+0,3
+2,0
+0,1
+0,1
+0,1
+nd: 2,1
+0,4
+1,3
+nwsum: [ 3, 8 ]
+ndsum: [ 3, 4, 4 ]
+z: 1,0,1,0
+1,1,1,1
+1,1,1,0
+word_topic_weight: 0.01
+global_topic_weight: 3.07
+doc_topic_weight: 2.1
+doc_max_weight: 3.2
+word_topic_weight: 2.01
+global_topic_weight: 8.07
+doc_topic_weight: 1.1
+doc_max_weight: 3.2
+p: [ 0.0021376221498371336, 0.08561802973977693 ]
+newline: 
+word: cat
+old_topic: 0
+nw: 0,3
+0,0
+0,3
+2,0
+0,1
+0,1
+0,1
+nd: 1,2
+0,4
+1,3
+nwsum: [ 2, 9 ]
+ndsum: [ 3, 4, 4 ]
+z: 1,0,1,0
+1,1,1,1
+1,1,1,0
+word_topic_weight: 0.01
+global_topic_weight: 2.07
+doc_topic_weight: 1.1
+doc_max_weight: 3.2
+word_topic_weight: 0.01
+global_topic_weight: 9.07
+doc_topic_weight: 2.1
+doc_max_weight: 3.2
+p: [ 0.0016606280193236717, 0.0007235391400220507 ]
+newline: 
+word: is
+old_topic: 1
+nw: 0,3
+1,0
+0,2
+2,0
+0,1
+0,1
+0,1
+nd: 2,1
+0,4
+1,3
+nwsum: [ 3, 8 ]
+ndsum: [ 3, 4, 4 ]
+z: 1,0,1,0
+1,1,1,1
+1,1,1,0
+word_topic_weight: 0.01
+global_topic_weight: 3.07
+doc_topic_weight: 2.1
+doc_max_weight: 3.2
+word_topic_weight: 2.01
+global_topic_weight: 8.07
+doc_topic_weight: 1.1
+doc_max_weight: 3.2
+p: [ 0.0021376221498371336, 0.08561802973977693 ]
+newline: 
+word: fierce
+old_topic: 0
+nw: 0,3
+1,0
+0,3
+1,0
+0,1
+0,1
+0,1
+nd: 1,2
+0,4
+1,3
+nwsum: [ 2, 9 ]
+ndsum: [ 3, 4, 4 ]
+z: 1,0,1,0
+1,1,1,1
+1,1,1,0
+word_topic_weight: 1.01
+global_topic_weight: 2.07
+doc_topic_weight: 1.1
+doc_max_weight: 3.2
+word_topic_weight: 0.01
+global_topic_weight: 9.07
+doc_topic_weight: 2.1
+doc_max_weight: 3.2
+p: [ 0.16772342995169084, 0.0007235391400220507 ]
+newline: 
+word: the
+old_topic: 1
+nw: 0,2
+1,0
+0,3
+2,0
+0,1
+0,1
+0,1
+nd: 2,2
+0,3
+1,3
+nwsum: [ 3, 8 ]
+ndsum: [ 4, 3, 4 ]
+z: 1,0,1,0
+1,1,1,1
+1,1,1,0
+word_topic_weight: 0.01
+global_topic_weight: 3.07
+doc_topic_weight: 0.1
+doc_max_weight: 3.2
+word_topic_weight: 2.01
+global_topic_weight: 8.07
+doc_topic_weight: 3.1
+doc_max_weight: 3.2
+p: [ 0.00010179153094462541, 0.24128717472118955 ]
+newline: 
+word: mouse
+old_topic: 1
+nw: 0,3
+1,0
+0,3
+2,0
+0,0
+0,1
+0,1
+nd: 2,2
+0,3
+1,3
+nwsum: [ 3, 8 ]
+ndsum: [ 4, 3, 4 ]
+z: 1,0,1,0
+1,1,1,1
+1,1,1,0
+word_topic_weight: 0.01
+global_topic_weight: 3.07
+doc_topic_weight: 0.1
+doc_max_weight: 3.2
+word_topic_weight: 0.01
+global_topic_weight: 8.07
+doc_topic_weight: 3.1
+doc_max_weight: 3.2
+p: [ 0.00010179153094462541, 0.0012004337050805453 ]
+newline: 
+word: is
+old_topic: 1
+nw: 0,3
+1,0
+0,2
+2,0
+0,1
+0,1
+0,1
+nd: 2,2
+0,3
+1,3
+nwsum: [ 3, 8 ]
+ndsum: [ 4, 3, 4 ]
+z: 1,0,1,0
+1,1,1,1
+1,1,1,0
+word_topic_weight: 0.01
+global_topic_weight: 3.07
+doc_topic_weight: 0.1
+doc_max_weight: 3.2
+word_topic_weight: 2.01
+global_topic_weight: 8.07
+doc_topic_weight: 3.1
+doc_max_weight: 3.2
+p: [ 0.00010179153094462541, 0.24128717472118955 ]
+newline: 
+word: meek
+old_topic: 1
+nw: 0,3
+1,0
+0,3
+2,0
+0,1
+0,0
+0,1
+nd: 2,2
+0,3
+1,3
+nwsum: [ 3, 8 ]
+ndsum: [ 4, 3, 4 ]
+z: 1,0,1,0
+1,1,1,1
+1,1,1,0
+word_topic_weight: 0.01
+global_topic_weight: 3.07
+doc_topic_weight: 0.1
+doc_max_weight: 3.2
+word_topic_weight: 0.01
+global_topic_weight: 8.07
+doc_topic_weight: 3.1
+doc_max_weight: 3.2
+p: [ 0.00010179153094462541, 0.0012004337050805453 ]
+newline: 
+word: the
+old_topic: 1
+nw: 0,2
+1,0
+0,3
+2,0
+0,1
+0,1
+0,1
+nd: 2,2
+0,4
+1,2
+nwsum: [ 3, 8 ]
+ndsum: [ 4, 4, 3 ]
+z: 1,0,1,0
+1,1,1,1
+1,1,1,0
+word_topic_weight: 0.01
+global_topic_weight: 3.07
+doc_topic_weight: 1.1
+doc_max_weight: 3.2
+word_topic_weight: 2.01
+global_topic_weight: 8.07
+doc_topic_weight: 2.1
+doc_max_weight: 3.2
+p: [ 0.0011197068403908795, 0.16345260223048325 ]
+newline: 
+word: leopard
+old_topic: 1
+nw: 0,3
+1,0
+0,3
+2,0
+0,1
+0,1
+0,0
+nd: 2,2
+0,4
+1,2
+nwsum: [ 3, 8 ]
+ndsum: [ 4, 4, 3 ]
+z: 1,0,1,0
+1,1,1,1
+1,1,1,0
+word_topic_weight: 0.01
+global_topic_weight: 3.07
+doc_topic_weight: 1.1
+doc_max_weight: 3.2
+word_topic_weight: 0.01
+global_topic_weight: 8.07
+doc_topic_weight: 2.1
+doc_max_weight: 3.2
+p: [ 0.0011197068403908795, 0.0008131970260223048 ]
+newline: 
+word: is
+old_topic: 1
+nw: 0,3
+1,0
+0,2
+2,0
+0,1
+0,1
+0,1
+nd: 2,2
+0,4
+1,2
+nwsum: [ 3, 8 ]
+ndsum: [ 4, 4, 3 ]
+z: 1,0,1,0
+1,1,1,1
+1,1,1,0
+word_topic_weight: 0.01
+global_topic_weight: 3.07
+doc_topic_weight: 1.1
+doc_max_weight: 3.2
+word_topic_weight: 2.01
+global_topic_weight: 8.07
+doc_topic_weight: 2.1
+doc_max_weight: 3.2
+p: [ 0.0011197068403908795, 0.16345260223048325 ]
+newline: 
+word: fierce
+old_topic: 0
+nw: 0,3
+1,0
+0,3
+1,0
+0,1
+0,1
+0,1
+nd: 2,2
+0,4
+0,3
+nwsum: [ 2, 9 ]
+ndsum: [ 4, 4, 3 ]
+z: 1,0,1,0
+1,1,1,1
+1,1,1,0
+word_topic_weight: 1.01
+global_topic_weight: 2.07
+doc_topic_weight: 0.1
+doc_max_weight: 3.2
+word_topic_weight: 0.01
+global_topic_weight: 9.07
+doc_topic_weight: 3.1
+doc_max_weight: 3.2
+p: [ 0.015247584541062805, 0.0010680815876515986 ]
+final z: 1,0,1,0
+1,1,1,1
+1,1,1,0
